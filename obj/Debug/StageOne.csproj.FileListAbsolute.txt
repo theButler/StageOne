@@ -1,0 +1,7 @@
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\bin\StageOne.dll
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\bin\StageOne.pdb
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\bin\EntityFramework.dll
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\bin\EntityFramework.xml
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\ResolveAssemblyReference.cache
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\StageOne.dll
+c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\StageOne.pdb
