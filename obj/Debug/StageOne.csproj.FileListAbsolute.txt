@@ -5,3 +5,9 @@ c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\bin\EntityF
 c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\ResolveAssemblyReference.cache
 c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\StageOne.dll
 c:\users\tim\documents\visual studio 2010\Projects\StageOne\StageOne\obj\Debug\StageOne.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\bin\StageOne.dll
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\bin\StageOne.pdb
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\bin\EntityFramework.xml
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\obj\Debug\StageOne.dll
+C:\Users\Nick\Documents\Visual Studio 2010\Projects\StageOne\obj\Debug\StageOne.pdb
