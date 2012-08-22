@@ -8,9 +8,9 @@ namespace StageOne.Controllers
 {
     public class HomeController : Controller
     {
-        public ActionResult Index()
+        public ActionResult Index(string message)
         {
-            ViewBag.Message = "Welcome to Puffin Stage One!";
+            ViewBag.Message = message;
 
             return View();
         }
