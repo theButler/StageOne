@@ -1,1 +1,9 @@
 ﻿App_Data/ASPNETDB.MDF
+bin/StageOne.dll
+bin/StageOne.pdb
+obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
+obj/Debug/StageOne.dll
+obj/Debug/StageOne.pdb
+StageOne.csproj.orig
+bin/.
+obj/.
