@@ -9,8 +9,8 @@ namespace StageOne.Models
     public class UserComment
     {
         public int ID { get; set; }
-        string whatTheyWrote { get; set; }
-        int whoWroteIt { get; set; }
+        public string whatTheyWrote { get; set; }
+        public int whoWroteIt { get; set; }
 
     }
 

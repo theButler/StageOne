@@ -1,0 +1,25 @@
+﻿@model StageOne.Models.UserComment
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>UserComment</legend>
+
+    <div class="display-label">whatTheyWrote</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.whatTheyWrote)
+    </div>
+
+    <div class="display-label">whoWroteIt</div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.whoWroteIt)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id=Model.ID }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>
