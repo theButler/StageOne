@@ -21,6 +21,10 @@ namespace StageOne
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+            routes.MapRoute("Robots.txt",
+                  "robots.txt",
+                  new { controller = "Home", action = "Robots" });
+
             routes.MapRoute(
                 "Default", // Route name
                 "{controller}/{action}/{id}", // URL with parameters
