@@ -5,5 +5,5 @@ obj/Debug/DesignTimeResolveAssemblyReferencesInput.cache
 obj/Debug/StageOne.dll
 obj/Debug/StageOne.pdb
 StageOne.csproj.orig
-bin/.
-obj/.
+bin/
+obj/
